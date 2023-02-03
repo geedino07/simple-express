@@ -1,6 +1,6 @@
 # Overview
 
-This is a very simple, bare-bones NodeJS and ExpressJS project created for you to use with Docker.
+This is a very simple, bare-bones NodeJS and ExpressJS project created to use with Docker.
 
 ## Local Setup
 
